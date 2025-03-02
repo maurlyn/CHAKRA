@@ -168,6 +168,9 @@ font-size: 3rem;
     margin-right:1rem;
     text-decoration: none;
 }
+.about .info .icons a:hover{
+    background:var(--red);
+}
 
 
 
